@@ -1,16 +1,5 @@
 # OMPFUNS
 
-This is a repositor for OMP5.2 C Support test. All programs are built in C to keep the simplest dependencies.
+This is a repository provides tests for omp2tbb translator tool.
 
-Building system is based on [Meson](https://mesonbuild.com/index.html).
-
-# How to install Meson?
-
-https://mesonbuild.com/Getting-meson.html
-
-# How to build?
-
-```bash
-meason build
-```
 
